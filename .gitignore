@@ -1,7 +1,3 @@
-.metadados/
-.configuracães/
-.classpath
-.projeto
-bin/
-lixeira/
-agendadecontatos/
+.metadata/ 
+.settings/ 
+.classpath 
